@@ -1,0 +1,21 @@
+{
+  "name": "day2-pp1",
+  "homepage": "https://github.com/kris4444/day2-pp1",
+  "authors": [
+    "kris4444 <krits4444@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
